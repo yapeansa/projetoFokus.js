@@ -15,8 +15,3 @@ O projeto `Fokus` visa aumentar a produtividade das pessoas em suas rotinas de e
 ## ACESSO AO PROJETO
 
 Você pode acessar o projeto através do link [https://fokusprojectpomodoro.vercel.app/](https://fokusprojectpomodoro.vercel.app/).
-
-## Contato
-
-- [LinkedIn](http://linkedin.com/in/yapeansa)
-- <a href="mailto:yapeansa@gmail.com">Email</a>
