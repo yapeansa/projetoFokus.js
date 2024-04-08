@@ -1,15 +1,22 @@
-# Projeto Fokus
+# PROJETO FOKUS
 
-Neste projeto, praticamos Javascript com a manipulação de elementos no DOM.
+O projeto `Fokus` visa aumentar a produtividade das pessoas em suas rotinas de estudo através do método Pomodoro.
 
-## Tecnologias utilizadas
+## TECNOLOGIAS UTILIZADAS
 
-<div>
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" />
+- HTML5
+- CSS3
+- JAVASCRIPT
 
-</div>
+## IMAGEM DO PROJETO
+
+![Fokus image preview](/imagens/fokus.png)
+
+## ACESSO AO PROJETO
+
+Você pode acessar o projeto através do link [https://fokusprojectpomodoro.vercel.app/](https://fokusprojectpomodoro.vercel.app/).
+
+## Contato
+
+- [LinkedIn](http://linkedin.com/in/yapeansa)
+- <a href="mailto:yapeansa@gmail.com">Email</a>
